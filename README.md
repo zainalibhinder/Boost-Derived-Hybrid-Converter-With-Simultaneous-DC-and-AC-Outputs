@@ -11,7 +11,7 @@ PSIM V11.1.5 - Powersim Inc.
 ```
 
 This is implementation IEEE transactions paper titled [Boost-Derived Hybrid Converter With Simultaneous DC and AC Outputs](https://ieeexplore.ieee.org/document/6553180?denied=)
-and [Solar_PV_based_Nanogrid_Integrated_with_Battery_Energy_Storage_to_Supply_Hybrid_Residential_Loads_using_Single_Stage_Hybrid_Converter](https://www.researchgate.net/publication/338452475_Solar_PV_based_Nanogrid_Integrated_with_Battery_Energy_Storage_to_Supply_Hybrid_Residential_Loads_using_Single_Stage_Hybrid_Converter)
+and [PV Based Nano-Grid integrated with battery to Supply Hybrid Residential Loads using single-Stage-Hybrid Converter](https://www.researchgate.net/publication/338452475_Solar_PV_based_Nanogrid_Integrated_with_Battery_Energy_Storage_to_Supply_Hybrid_Residential_Loads_using_Single_Stage_Hybrid_Converter)
 
 ## ABOUT THE PROJECT
 
