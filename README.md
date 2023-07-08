@@ -16,7 +16,18 @@ and [PV Based Nano-Grid integrated with battery to Supply Hybrid Residential Loa
 ## ABOUT THE PROJECT
 
 ```
-Normally in a Nano-grid architecture, dedicated power converters for both dc and ac loads are used thus increasing the number of passive components and conductions losses. Here, a solar (PV) based Nano grid integrated with battery storage is presented which can be used to supply ac and dc loads simultaneously. The boost derived hybrid converter topology is used in this Nano grid which is realized by replacing the controlled switch of single switch boost converter with a voltage source bridge inverter. It also has an inherent shoot through protection in the inverter stage. It also reduces the number of conversion stages whencompared with a conventional solar (PV) based systems to supply the ac/dc loads. A non-isolated buck boost bidirectional DC-DC converter is used for charging and discharging of the battery to support the Nano grid. A suitable Pulse width modulation control strategy based on Uni-Polar sine PWM is implemented. The Converter is simulated in different modes of operation. The simulation is done using PSIM software. Simulation results show the suitability of the converter for the practical application.
+Normally in a Nano-grid architecture, dedicated power converters for both dc and ac loads are used
+ thus increasing the number of passive components and conductions losses. Here, a solar (PV) based
+ Nano grid integrated with battery storage is presented which can be used to supply ac and dc loads
+ simultaneously. The boost derived hybrid converter topology is used in this Nano grid which is
+realized by replacing the controlled switch of single switch boost converter with a voltage source
+ bridge inverter. It also has an inherent shoot through protection in the inverter stage. It also
+ reduces the number of conversion stages whencompared with a conventional solar (PV) based systems
+to supply the ac/dc loads. A non-isolated buck boost bidirectional DC-DC converter is used for
+charging and discharging of the battery to support the Nano grid. A suitable Pulse width modulation
+ control strategy based on Uni-Polar sine PWM is implemented. The Converter is simulated in different
+ modes of operation. The simulation is done using PSIM software. Simulation results show the
+suitability of the converter for the practical application.
  
 ```
 
